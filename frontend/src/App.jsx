@@ -1,4 +1,6 @@
+import React from "react";
 import CreateShortUrl from "./components/CreateShortUrl";
+import Stats from "./components/Stats";
 import "./App.css";
 
 export default function App() {
@@ -12,6 +14,7 @@ export default function App() {
       <main>
         <CreateShortUrl />
         <hr />
+        <Stats />
       </main>
 
       <footer>
