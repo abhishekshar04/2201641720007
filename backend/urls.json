@@ -1,0 +1,55 @@
+{
+  "8wf24e": {
+    "url": "www.google.com",
+    "expiry": "2025-09-08T09:58:02.850Z",
+    "createdAt": "2025-09-08T09:28:02.850Z",
+    "clicks": [
+      {
+        "time": "2025-09-08T09:28:08.970Z",
+        "referrer": "direct",
+        "ip": "::1"
+      },
+      {
+        "time": "2025-09-08T09:28:23.406Z",
+        "referrer": "direct",
+        "ip": "::1"
+      }
+    ]
+  },
+  "xl0ml5": {
+    "url": "www.google.com",
+    "expiry": "2025-09-08T10:14:59.236Z",
+    "createdAt": "2025-09-08T09:44:59.236Z",
+    "clicks": [
+      {
+        "time": "2025-09-08T09:45:08.631Z",
+        "referrer": "direct",
+        "ip": "::1"
+      }
+    ]
+  },
+  "p55jnc": {
+    "url": "www.google.com",
+    "expiry": "2025-09-08T10:16:04.812Z",
+    "createdAt": "2025-09-08T09:46:04.812Z",
+    "clicks": [
+      {
+        "time": "2025-09-08T09:46:14.143Z",
+        "referrer": "direct",
+        "ip": "::1"
+      }
+    ]
+  },
+  "61bnre": {
+    "url": "https://github.com/abhishekshar04/",
+    "expiry": "2025-09-08T10:19:11.294Z",
+    "createdAt": "2025-09-08T09:49:11.294Z",
+    "clicks": [
+      {
+        "time": "2025-09-08T09:49:14.378Z",
+        "referrer": "direct",
+        "ip": "::1"
+      }
+    ]
+  }
+}
