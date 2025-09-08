@@ -51,5 +51,40 @@
         "ip": "::1"
       }
     ]
+  },
+  "88702i": {
+    "url": "www.google.com",
+    "expiry": "2025-09-08T10:25:40.150Z",
+    "createdAt": "2025-09-08T09:55:40.150Z",
+    "clicks": []
+  },
+  "n7wwrw": {
+    "url": "https://github.com/abhishekshar04/",
+    "expiry": "2025-09-08T10:31:50.361Z",
+    "createdAt": "2025-09-08T10:01:50.361Z",
+    "clicks": [
+      {
+        "time": "2025-09-08T10:01:57.443Z",
+        "referrer": "direct",
+        "ip": "::1"
+      }
+    ]
+  },
+  "ny457x": {
+    "url": "https://github.com/abhishekshar04/2201641720007",
+    "expiry": "2025-09-08T10:33:29.434Z",
+    "createdAt": "2025-09-08T10:03:29.434Z",
+    "clicks": [
+      {
+        "time": "2025-09-08T10:03:32.028Z",
+        "referrer": "direct",
+        "ip": "::1"
+      },
+      {
+        "time": "2025-09-08T10:05:22.888Z",
+        "referrer": "direct",
+        "ip": "::1"
+      }
+    ]
   }
 }
